@@ -2,8 +2,6 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 🛠️ Languages & Tools
-
 # 💫 About Me:
 🔭 **I'm currently working on:** Web development projects and exploring AI-powered applications.<br><br>👯 **I'm looking to collaborate on:** Beginner-friendly open-source projects, hackathons, and innovative tech ideas.<br><br>🤝 **I'm looking for help with:** Improving my coding skills and learning software development best practices.<br><br>🌱 **I'm currently learning:** C programming, Python, JavaScript, HTML, and CSS.<br><br>💬 **Ask me about:** Hackathons, beginner web development, and getting started with tech communities.<br><br>⚡ **Fun fact:** I believe great ideas become better when people build them together!
 
