@@ -2,18 +2,6 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=negishourya&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=negishourya&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shourya Negi's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=negishourya&theme=nightowl&radius=10" alt="negishourya's Activity Graph" />
-</p>
-
 ## 🛠️ Languages & Tools
 
 # 💫 About Me:
